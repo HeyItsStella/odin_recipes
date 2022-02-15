@@ -1,0 +1,20 @@
+button{
+    color:black;
+    background-color:rgb(191, 223, 132);
+    font-family: papyrus, sans-serif;
+    font-size:1.2em;
+    text-decoration: none;
+    padding:1rem 3rem;
+    letter-spacing: 0.2px;
+    font-weight: bold;
+    box-shadow:0 0.05em 0.25em 0 rgb(0 0 0 / 50%);
+    border:none;
+    display:inline-block;
+    border-radius: 0.4em;
+    
+}
+
+.heading{
+    background-color: rgba(212, 212, 212, 0.925);
+    font-family: papyrus, sans-serif;
+}
